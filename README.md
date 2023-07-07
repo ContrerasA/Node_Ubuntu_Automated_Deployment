@@ -1,5 +1,5 @@
 
-# Automated VPS Setup Script for Node.js Application Deployment
+# Automated Setup Script for Ubuntu 20.04, Nginx, Pm2, and Node.js Application Deployment
 This script is designed to simplify the process of setting up a new Virtual Private Server (VPS) running Ubuntu 20.04 for deploying Node.js applications. It eliminates the need to manually follow multiple guides and troubleshoot issues that arise during the setup.
 
 ## Purpose
@@ -18,8 +18,6 @@ To use the script, follow these steps:
 5. Follow the prompts and provide the necessary information when prompted.
 6. Sit back and let the script automate the installation and setup process.
 
-The script will ask you for a username, and a domain name. The domain name should be just the domain name without the protocol or TLD
-> ex: *Enter domain name:* `mysupercooldomain`
 
 Please note that the script assumes a basic familiarity with server administration and Node.js application deployment. It's essential to review the script and ensure it aligns with your specific requirements before running it.
 
